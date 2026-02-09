@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Kazi Ashik Ahmed
 
-### 🧠 Backend Developer | Django Enthusiast | QA Automation Practitioner | WordPress & Shopify Developer
+### 🧠 QA Automation Practitioner | Backend Developer | Django Enthusiast| WordPress & Shopify Developer
 
 🎯 I turn real-world problems into scalable backend systems with **Python & Django**, while ensuring software quality through **robust testing practices**. Passionate about **API development**, **database engineering**, **automation**, and **building digital solutions** that help businesses grow.
 
@@ -24,7 +24,7 @@
 
 ### 💼 Work Experience
 
-#### 🧪 **Brain Station 23** — QA Engineer Trainee
+#### 🧪 **Brain Station 23** — SQA Engineer l
 
 📅 **Sep 2025 – Present | Dhaka, Bangladesh**
 
@@ -45,13 +45,12 @@
 
 ### 🧠 Core Expertise
 
+* ✅ QA Automation — Playwright / Selenium / WebDriverIO
+* ✅ API Testing (Postman, JMeter)
 * ✅ Django-based Backend Development
 * ✅ REST API Architecture & Integration
 * ✅ Database Modeling (PostgreSQL, MySQL)
-* ✅ QA Automation — Playwright / Selenium / WebDriverIO
-* ✅ WordPress & Shopify Development
-* ✅ API Testing (Postman, JMeter)
-
+* 
 ---
 
 ### 🧪 QA & Automation Mindset
@@ -75,104 +74,3 @@ Skilled in:
 📊 CGPA: **3.63 / 4.00**
 
 ---
-
-### 🚀 Personal Projects
-
-* **Surokkha** – Vaccine Simulation Platform *(Django, JWT Auth, Scalable Architecture)*
-* **BrainWave** – Tutor-Student Portal *(Role-based access, clean UI)*
-
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikahmedrabbi&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikahmedrabbi&layout=compact&theme=tokyonight" width="49%" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashikahmedrabbi&theme=tokyonight" width="99%" />
-</p>
-
----
-
-### 🌍 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/ashikahmedrabbi) • [Twitter](https://twitter.com/ashikahmedrabbi) • [Facebook](https://facebook.com/ashikahmedrabbi) • [Instagram](https://instagram.com/ashikahmedrabbi) • [YouTube](https://youtube.com/channel/UC1LTYYrZh6YJgk_MSTIXRaw) • [HackerRank](https://hackerrank.com/profile/ashikahmedrabbi) • [Behance](https://www.behance.net/ashikahmedarnob)
-
----
-
-### 🌟 Fun Fact
-
-> When I'm not coding or testing, I'm exploring automation tricks, UI aesthetics, and smart ways to solve everyday tech problems.
-
-✨ *Let’s build faster, smarter, and better together.*
-
----
-
-## 🎓 Certifications
-
-* ✅ Python & Django Foundation *(Coursera / Udemy / Relevant)*
-* ✅ Software Quality Assurance & Testing
-* ✅ Git & GitHub Workflow Mastery
-* ✅ Database Essentials *(PostgreSQL / MySQL)*
-
-> *(Add certificate links once available)*
-
----
-
-
----
-
-## 🧠 Tech Stack Icons Grid
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,html,css,tailwind,js,react,git,linux,postman,selenium&perline=7" />
-</p>
-
----
-
-## 🌓 Themed Profile Banners (Upcoming)
-
-✨ Dark & Light GitHub banner under design
-
----
-
-## 📚 What I'm Learning Now
-
-* Django Advanced Architecture
-* React + Django Full Stack
-* Machine Learning (TensorFlow + scikit‑learn)
-* CI/CD & QA Automation Pipelines
-
----
-
-## 💼 Work With Me
-
-💬 Available for **Backend | QA Automation | WordPress | Shopify** projects
-📧 Email: **[ashikahmedrabbi@gmail.com](mailto:ashikahmedrabbi@gmail.com)**
-🤝 Open to freelance & collaboration opportunities
-
----
-
-## 🏆 Competitive & Coding Badges
-
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank\&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
-
----
-
-## ⏳ Career Timeline
-
-```
-2025 — QA Engineer Trainee @ Brain Station 23
-2025 — Junior SQA Intern @ AppDevs
-2024 — Django Developer (Projects & Freelance)
-2022 — Web Development (WordPress + Shopify)
-```
-
----
-
-## 🎬 Fun Avatar / GIF Section
-
-🚧 *Custom animated avatar coming soon — coding + QA vibes!*
